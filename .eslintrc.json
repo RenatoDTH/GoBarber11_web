@@ -40,7 +40,8 @@
       { "ts": "never", "tsx": "never" }
     ],
     "react/jsx-one-expression-per-line": "off",
-    "camelcase":"off"
+    "camelcase":"off",
+    "@typescript-eslint/ban-types": "off"
   },
   "settings": { "import/resolver": { "typescript": {} } }
 }
