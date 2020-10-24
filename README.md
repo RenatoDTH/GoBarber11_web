@@ -1,5 +1,6 @@
 # GoBarber11_web
 Versão web do GoBarber com Typescript e React.
+Versão web do GoBarber com React-native, com ensinamentos da [Rocketseat](https://rocketseat.com.br/).
 
 ## Sobre o GoBarber
 
