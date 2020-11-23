@@ -12,7 +12,7 @@ GoBarber é um serviço de cadastramento de prestadores, o qual você pode se ca
 Nesta versão responsiva web em específico foi criado o próprio hook useAuth, para transitar informações importantes entre páginas, e também foi criado do zero Toasts, ao invés de usar a lib para a dar os popup de sucesso/erros.
 
 <p align="center">
-  <img alt="GoBarber" src=".github/goBarberLoginMobile.PNG" width="25%">
+  <img alt="GoBarber" src=".github/goBarberLogin.PNG" width="25%">
 </p>
 
 ## Dependências
